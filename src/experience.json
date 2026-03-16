@@ -2,13 +2,13 @@
   {
     "name": "TVS Motor Company",
     "timeline": "June 2024 - July 2024",
-    "description": "I was selected for a summer internship through the prestigious TVS Utkarsh program, where I had the opportunity to work on live internal applications for the company. Leveraging Power Apps and web development with the Flask framework, I contributed to projects that directly enhanced operational efficiency.",
+    "description": "Selected for the prestigious TVS Utkarsh Summer Internship Program. Built internal productivity tools including a Visitor Management System using Power Apps and a project tracking web application using Flask and JavaScript. These solutions streamlined internal workflows and improved operational visibility for teams.",
     "link": "https://www.tvsmotor.com/"
   },
   {
     "name": "Dell Technologies",
     "timeline": "February 2025 - Present",
-    "description": "Designed and delivered multiple Python-based microservices and automation solutions—including secrets synchronization, toolchain migration, data lakehouse transfer, and an AI developer agent—reducing manual effort by up to 80%, improving scalability, and boosting developer productivity by 25–40%.",
+    "description": "Software Engineer building scalable automation and developer productivity tools using Python and microservices architecture. Developed solutions for secrets synchronization, CI/CD pipeline migrations, data lakehouse transfers, and AI-powered developer agents, reducing manual effort by up to 80% and improving engineering productivity by 25–40%.",
     "link": "https://www.dell.com/"
   }
 ]
