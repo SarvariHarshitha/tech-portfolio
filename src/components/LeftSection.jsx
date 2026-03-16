@@ -8,12 +8,12 @@ const LeftSection = () => {
             <div>
                 <a href="https://github.com/SarvariHarshitha" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/sarvari-harshitha-konda/" target="_blank" rel="noopener noreferrer"> <i className="fa-brands fa-linkedin"></i></a>
-                <a href="https://x.com/" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-x-twitter"></i></a>
+                <a href="https://x.com/" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-twitter"></i></a>
                 <a href="https://www.instagram.com/sarvari_harshitha/" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-instagram"></i></a>
             </div>
             <div>
             <p>
-                I am Harshitha, an aspiring Software Engineer with strong skills in programming, problem-solving, and web development. Proficient in Java, Python, and JavaScript, I have experience with tools like Power Apps and GitHub. Passionate about leveraging technology for impactful solutions, I am excited to begin my journey as a Software Engineer at Dell Technologies.
+                I am Harshitha, a Software Engineer at Dell Technologies passionate about building scalable automation and developer productivity tools. Specializing in Python, Java, and modern web frameworks, I focus on microservices architecture and impactful, data-driven solutions. My work involves creating systems that streamline workflows, enhance CI/CD pipelines, and leverage cutting-edge tech to drive engineering efficiency.
             </p>
             <div className="skills">
                 <h4>Skills : </h4>
