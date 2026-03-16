@@ -1,17 +1,8 @@
-import { useState } from "react";
-import LeftSection from "./components/LeftSection";
-import RightSection from "./components/RightSection";
+import GameWorld from "./components/GameWorld";
 
 const App = () => {
   return(
-    <div className="sections">
-      <div>
-        <LeftSection />
-        </div>
-        <div>
-        <RightSection />
-        </div>
-    </div>
+    <GameWorld />
   )
 }
 
