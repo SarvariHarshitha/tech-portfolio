@@ -8,7 +8,7 @@ const ExperienceCard = () =>{
             <h2>{exp.name}</h2>
             <p><i>{exp.timeline}</i></p>
             <p>{exp.description}</p>
-            <a href={exp.link} target="blank">Company Link</a>
+            <a href={exp.link} target="_blank" rel="noopener noreferrer">Company Link</a>
           </div>
         ))}
       </div>
